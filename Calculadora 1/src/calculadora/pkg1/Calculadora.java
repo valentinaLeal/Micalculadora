@@ -26,5 +26,22 @@ public class Calculadora {
         }
         r = x - y;
     }
+    
+    void dividir (){
+        
+        if (y==0){
+            
+            System.out.println("ERROR. NO SE PUEDE DIVIDIR ENTRE CERO");
+            
+        }
+        
+        r = x / y;
+        
+    }
+    
+    void multiplicar (){
+        
+        r = x*y;
+    }
 
 }
