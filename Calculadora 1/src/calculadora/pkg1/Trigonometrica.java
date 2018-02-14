@@ -11,4 +11,6 @@ package calculadora.pkg1;
  */
 public class Trigonometrica extends Calculadora {
     
+    
+    
 }
