@@ -7,5 +7,10 @@ public class Principal {
         Calculadora micalculadora;  //definir el objeto
         micalculadora = new Calculadora(); // construir el objeto
 
+    micalculadora.restar(); 
+    
+    
+    
     }
+    
 }
